@@ -1,0 +1,53 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+
+  {
+    "title": "Cockpit CMS",
+    "imageSrc": "skills/cockpit.svg"
+  },
+
+  {
+    "title": "Confluence",
+    "imageSrc": "skills/confluence.png"
+  },
+
+  {
+    "title": "Miro",
+    "imageSrc": "skills/miro.png"
+  },
+
+  {
+    "title": "Typo3",
+    "imageSrc": "skills/typo3.png"
+  },
+
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+
+  {
+    "title": "Adobe XD/AI/IN",
+    "imageSrc": "skills/adobe.png"
+  }
+]

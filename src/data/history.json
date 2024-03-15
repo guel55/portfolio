@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Online Redaktion",
+    "organisation": "Uni Tübingen",
+    "startDate": "Juni, 2018",
+    "endDate": "Okt 2018",
+    "experiences": ["Content Management Systeme, Typo3"],
+    "imageSrc": "history/tübingenLogo.png"
+  },
+  {
+    "role": "UI-Design und Frontend-Entwicklung",
+    "organisation": "Exxeta AG",
+    "startDate": "Mär, 2022",
+    "endDate": "Aug, 2022",
+    "experiences": ["Headless CMS", "Design Tokens", "React und Angular Webanwendung", "Hosting"],
+    "imageSrc": "history/exxeta.png"
+  },
+  {
+    "role": "Landesacceleratorprogramm Sandbox",
+    "organisation": "HdM Stuttgart",
+    "startDate": "März, 2023",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Business Modeling", "Prototyping", "Pitching"
+    ],
+    "imageSrc": "history/sandbox.png"
+  }
+]
