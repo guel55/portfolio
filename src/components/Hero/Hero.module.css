@@ -54,7 +54,7 @@
   width: 50%;
   z-index: 1;
 
-  animation-name: floating;
+  animation-name: floating; /* Die Animation muss definiert werden */
   animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
@@ -77,7 +77,6 @@
   width: 50vw;
   height: 50vw;
   min-width: 350px;
-  min-width: 350px;
   top: -128px;
   left: -10vw;
   border-radius: 764px;
@@ -90,8 +89,7 @@
   position: absolute;
   width: 70vw;
   height: 50vw;
-  min-width: 350px;
-  min-width: 250px;
+  min-width: 250px; /* Ein Attribut "min-width" entfernt */
   top: 246px;
   right: -25vw;
   border-radius: 764px;
